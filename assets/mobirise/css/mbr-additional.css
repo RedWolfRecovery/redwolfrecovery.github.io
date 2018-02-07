@@ -1834,38 +1834,38 @@ body {
 .cid-qIS2OxAZIF .card-title {
   color: #767676;
 }
-.cid-qIRRYLrfZf {
+.cid-qIXk4JeRfU {
   padding-top: 45px;
-  padding-bottom: 90px;
+  padding-bottom: 30px;
   background-color: #232323;
 }
-.cid-qIRRYLrfZf .mbr-section-subtitle {
+.cid-qIXk4JeRfU .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qIRRYLrfZf .media-container-row {
+.cid-qIXk4JeRfU .media-container-row {
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
 }
-.cid-qIRRYLrfZf .mbr-text {
+.cid-qIXk4JeRfU .mbr-text {
   color: #767676;
 }
-.cid-qIRRYLrfZf .mbr-author-desc {
+.cid-qIXk4JeRfU .mbr-author-desc {
   display: block;
-  color: #c1c1c1;
-}
-.cid-qIRRYLrfZf .mbr-author-name {
   color: #767676;
 }
-.cid-qIRRYLrfZf .mbr-testimonial .panel-item {
+.cid-qIXk4JeRfU .mbr-author-name {
+  color: #767676;
+}
+.cid-qIXk4JeRfU .mbr-testimonial .panel-item {
   background-color: #1b1a1a;
 }
-.cid-qIRRYLrfZf .mbr-testimonial .card-block {
+.cid-qIXk4JeRfU .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
   flex-grow: 0;
   padding: 2.4rem 2.4rem 0 2.4rem;
 }
-.cid-qIRRYLrfZf .mbr-testimonial .card-block .testimonial-photo {
+.cid-qIXk4JeRfU .mbr-testimonial .card-block .testimonial-photo {
   display: inline-block;
   width: 120px;
   height: 120px;
@@ -1873,12 +1873,12 @@ body {
   overflow: hidden;
   border-radius: 50%;
 }
-.cid-qIRRYLrfZf .mbr-testimonial .card-block .testimonial-photo img {
+.cid-qIXk4JeRfU .mbr-testimonial .card-block .testimonial-photo img {
   width: 100%;
   min-width: 100%;
   min-height: 100%;
 }
-.cid-qIRRYLrfZf .mbr-testimonial .card-footer {
+.cid-qIXk4JeRfU .mbr-testimonial .card-footer {
   padding-bottom: 2.4rem;
   border-top: 0;
   padding-top: 1rem;
@@ -1887,15 +1887,12 @@ body {
   background: none;
 }
 @media (max-width: 300px) {
-  .cid-qIRRYLrfZf .testimonial-photo {
+  .cid-qIXk4JeRfU .testimonial-photo {
     width: 100% !important;
     height: auto !important;
   }
 }
-.cid-qIRRYLrfZf H2 {
-  color: #ffffff;
-}
-.cid-qIRRYLrfZf SPAN {
+.cid-qIXk4JeRfU H2 {
   color: #ffffff;
 }
 .cid-qISPyyMG4W {
