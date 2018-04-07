@@ -3,13 +3,15 @@
   <!--Details of offcially supported devices-->
   <devices>
     <!--device name=<codename> model=<device_model> version=<latest_build_for_thi_device> maintainer=<maintainer_name>  date="dd-mm-yyyy"/-->
-    <device name="kenzo,kate" model="Redmi Note 3" version="3.2" build="026" maintainer="ATG Droid" date="06-02-2018"/>
-    <device name="mido" model="Redmi Note 4" version="3.2" build="026" maintainer="Dadi11" date="06-02-2018"/>
-    <device name="land" model="Redmi 3S" version="3.2" build="026" maintainer="Dineshkumar" date="06-02-2018"/>
+    <device name="kenzo,kate" model="Redmi Note 3" version="3.2" build="027" maintainer="ATG Droid" date="07-04-2018"/>
+    <device name="mido" model="Redmi Note 4" version="3.2" build="027" maintainer="Dadi11" date="07-04-2018"/>
+    <device name="land" model="Redmi 3S" version="3.2" build="027" maintainer="Dineshkumar" date="07-04-2018"/>
+    <device name="sagit" model="Xiaomi Mi 6" version="3.2" build="027" maintainer="Dadi11" date="07-04-2018"/>
   </devices>
 
   <!--Versions and their changelogs-->
   <changelogs>
+    <changelog version="3.2" build="027">If screen is turned off then automatically detect AROMA Installer package and unblank screen before starting the update binary which is going to call AROMA GUI, so we won't be stuck at the black screen since AROMA engine require screen to be turned on. Added ability to change OTA Survival driver properties from the recovery GUI, allowing recovery to support "out of the box" almost all incremental OTA updates from different OEMs/custom ROMs out there (as long as they have correctly formatted metadata). Notify user about the current activity of the deactivation process - that's handled under the console. Improved dumwolf driver. Removed the vibration feedback from all GUI elements. Automatically resize bootable partitions during nandroid backups.  Changed theme to black/white/red style based on @TBO material theme. Data files aren't anymore saved on the storage partitions, which means that we're now able to survive even encrypted device. Some bug fixes and improvements...</changelog>  
     <changelog version="3.2" build="026">This is just a quick bug fix release for MIUI users. So is highly recommend to update to this build if you are using MIUI.</changelog>
   </changelogs>
 </redwolf>
