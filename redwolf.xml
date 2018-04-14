@@ -3,10 +3,10 @@
   <!--Details of offcially supported devices-->
   <devices>
     <!--device name=<codename> model=<device_model> version=<latest_build_for_thi_device> maintainer=<maintainer_name>  date="dd-mm-yyyy"/-->
-    <device name="kenzo,kate" model="Redmi Note 3" version="3.2" build="027" maintainer="ATG Droid" date="07-04-2018"/>
-    <device name="mido" model="Redmi Note 4" version="3.2" build="027" maintainer="Dadi11" date="07-04-2018"/>
-    <device name="land" model="Redmi 3S" version="3.2" build="027" maintainer="Dineshkumar" date="07-04-2018"/>
-    <device name="sagit" model="Xiaomi Mi 6" version="3.2" build="027" maintainer="Dadi11" date="07-04-2018"/>
+    <device name="kenzo,kate" model="Redmi Note 3" version="3.2" build="027" maintainer="ATG Droid" date="07-04-2018" utc_build_date="1523476559" />
+    <device name="mido" model="Redmi Note 4" version="3.2" build="027" maintainer="Dadi11" date="07-04-2018" utc_build_date="1523476399" />
+    <device name="land" model="Redmi 3S" version="3.2" build="027" maintainer="Dineshkumar" date="07-04-2018" utc_build_date="1523476700" />
+    <device name="sagit" model="Xiaomi Mi 6" version="3.2" build="027" maintainer="Dadi11" date="07-04-2018" utc_build_date="1523476253" />
   </devices>
 
   <!--Versions and their changelogs-->
